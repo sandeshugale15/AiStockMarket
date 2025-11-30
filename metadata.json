@@ -1,0 +1,5 @@
+{
+  "name": "GeminiMarket Live",
+  "description": "A real-time stock market dashboard powered by Gemini 2.5 Flash with Google Search grounding. Features live pricing, AI-driven market analysis, intraday charting, and news aggregation.",
+  "requestFramePermissions": []
+}
